@@ -6,3 +6,9 @@ header{
   background-color:lightblue;
   height: 125px
 }
+
+article{
+  background-color:aliceblue;
+  width:70vw
+  margin: 0 auto;
+}
