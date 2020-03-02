@@ -1,3 +1,7 @@
+*{
+  box-sizing: border-box;
+}
+
 body{
   margin : 0;
   background-image: url(https://i.pinimg.com/originals/16/02/b2/1602b26c05ee78120695d592a68b8912.gif) 
@@ -11,7 +15,8 @@ header{
 article{
   background-color:aliceblue;
   width:70vw;
-  margin: 0 auto;
+  margin: 10px auto 10px auto;
+  padding: 10px;
 }
 
 nav{
